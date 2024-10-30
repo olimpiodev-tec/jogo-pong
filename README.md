@@ -25,5 +25,10 @@
   - Adicionando objetos na room.
   - Link para parte 01 do tutorial [aqui](./docs/pong_aula_01.pdf).
 
+- Aula 02
+  - Configuração de eventos no objeto padle criando movimento na vertical.
+  - Configuração de eventos no objeto ball definindo a direção e a velocidade.
+  - Link para parte 02 do tutorial [aqui](./docs/pong_aula_02.pdf).  
+
 
 
