@@ -1,7 +1,9 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-move_bounce_all(true);
+if (x < 0) {
+	game_restart();	
+}
 
-speed = speed + 0.1;
-
-audio_play_sound(snd_boing, 1, false);
+if (x > 640) {
+	game_restart();	
+}
